@@ -1,7 +1,7 @@
 # calculadora
 
 ## Descripción✍🏻
-Este es el proyecto de una calculadora ottalmente funcinal hecha con HTML, CSS y Javascript
+Este es el proyecto de una calculadora ottalmente funcional hecha con HTML, CSS y Javascript
 
 ## Autor✏️
 **Haytam El Harhari**
